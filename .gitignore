@@ -1,1 +1,18 @@
 # Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.gitignore
+mysite/__init__.pyc
+mysite/__pycache__/
+mysite/settings.pyc
+polls/__init__.pyc
+polls/__pycache__/
+polls/admin.pyc
+polls/apps.pyc
+polls/migrations/__pycache__/
