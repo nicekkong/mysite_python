@@ -8,6 +8,7 @@
 out
 gen
 .gitignore
+**/*.pyc
 mysite/__init__.pyc
 mysite/__pycache__/
 mysite/settings.pyc
